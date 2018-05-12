@@ -1,0 +1,36 @@
+_repo: The-Blocking-of-Zeebrugge_45718
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45718-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Carpenter, Alfred Francis Blakeney
+    alias: Carpenter, A. F. B. (Alfred Francis Blakeney)
+    birthdate: 1881
+    deathdate: 1955
+    gutenberg_agent_id: '43427'
+    url: http://www.gutenberg.org/2009/agents/43427
+description: Cover; Contents; Front Matter; Half Title; Frontispiece; Title Page Recto;
+  Title Page Verso; Dedication; Introduction; Appreciation by Marshal Foch; Appreciation
+  by Rear-Admiral Sims; Author's Preface; List of Illustrations; Part I; Chapter I;
+  Chapter II; Chapter III; Chapter IV; Chapter V; Chapter VI; Chapter VII; Chapter
+  VIII; Chapter IX; Chapter X; Chapter XI; Chapter XII; Chapter XIII; Part II; Foreword;
+  Chapter I; Chapter II; Chapter III; Chapter IV; Chapter V; Chapter VI; Chapter VII;
+  Chapter VIII; Chapter IX; Chapter X; Chapter XI; Back Matter; Appendix; Index.
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2014-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45718'
+  lccn: '22008986'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Naval operations, British'
+- !lcc 'D501'
+- !lcsh 'Zeebrugge-Ostend Raids, 1918'
+title: The Blocking of Zeebrugge
+url: http://www.gutenberg.org/ebooks/45718
